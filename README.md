@@ -26,12 +26,13 @@ Whatever I do, I pursue perfection. I take work ethics very seriously, love to l
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/REACT-5c6ca4?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-b6ccd2?logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
 </p>
 
@@ -52,7 +53,7 @@ Whatever I do, I pursue perfection. I take work ethics very seriously, love to l
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-🔥 My contributions
+### 🔥 My contributions
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KumuthuA&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
@@ -60,7 +61,7 @@ Whatever I do, I pursue perfection. I take work ethics very seriously, love to l
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <summary>💻 GitHub Profile Stats</summary>
+### 💻 GitHub Profile Stats
   <br/>
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KumuthuA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
     
