@@ -30,8 +30,11 @@ Whatever I do, I pursue perfection. I take work ethics very seriously, love to l
 <p>
     <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/REACT-5c6ca4?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="Next.js" src ="https://img.shields.io/badge/Next.JS%234ea94b.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-5c6ca4?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src ="https://img.shields.io/badge/Next.js%20-%23900326.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot%20-%99220326.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src ="https://img.shields.io/badge/Angular-f9ccd2.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="MUI" src ="https://img.shields.io/badge/MUI%20-%23C7DF1E.svg?logo=mui&logoColor=white"></a>
 
 </p>
 
