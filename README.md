@@ -45,8 +45,8 @@ Whatever I do, I pursue perfection. I take work ethics very seriously, love to l
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=kafka&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka%20-%2334A853.svg?logo=kafka&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis%20-%2334A853.svg?logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
