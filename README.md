@@ -61,7 +61,7 @@
   />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KumuthuA&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KumuthuA&theme=dark" alt="GitHub Streak" /></a> -->
 
 ---
 
