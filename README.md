@@ -3,7 +3,7 @@
   Hey there 👋, I'm <span style="color:#00BFFF;">Kumuthu Athukorala</span>
 </h1>
 
-<h3 align="center">💻 Software Engineer | Tech Enthusiast | Builder of Scalable Systems</h3>
+<h3 align="center">Software Engineer | Tech Enthusiast | Builder of Scalable Systems</h3>
 
 <p align="center">
   <em>Driven by curiosity and precision. I love leading teams, building impactful systems, and finding elegant solutions that make life easier for others.</em>
@@ -21,31 +21,31 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
-#### 💬 Languages
+#### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,go,typescript,javascript" />
 </p>
 
-#### 🌐 Web & Backend
+#### Web & Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,angular,fastapi,express" />
 </p>
 
-#### 🗄️ Databases & Cloud
+#### Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,redis,mongodb" />
 </p>
 
-#### ⚙️ Tools & Platforms
+#### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,kafka,figma,vscode" />
 </p>
 
 ---
 
-### 📊 My Developer Dashboard
+### Developer Dashboard
 
 <p align="center">
   <img 
@@ -67,27 +67,14 @@
 
 ---
 
-### 🧱 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/KumuthuA/kast-v2-notification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumuthuA&repo=kast-v2-notification&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/KumuthuA/file-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumuthuA&repo=file-service&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🚀 Current Focus
+### Current Focus
 - Building fast-paced, production-grade distributed systems with **Go + Kafka + Redis + PostgreSQL**
 - Exploring **system architecture**, **microservices**, and **cloud-native design**
 - Designing clean and efficient developer experiences 🧩
 
 ---
 
-### 🌱 Outside Tech
+### Outside Tech
 I’m often found:
 - 🏎️ Watching and analysing Formula 1 
 - 🌍 Exploring how to build technology that scales globally
