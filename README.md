@@ -3,7 +3,7 @@
   Hey there 👋, I'm <span style="color:#00BFFF;">Kumuthu Athukorala</span>
 </h1>
 
-<h3 align="center">💻 Computer Science & Engineering Undergraduate | Tech Enthusiast | Builder</h3>
+<h3 align="center">💻 Software Engineer | Tech Enthusiast | Builder of Scalable Systems</h3>
 
 <p align="center">
   <em>Driven by curiosity and precision. I love leading teams, building impactful systems, and finding elegant solutions that make life easier for others.</em>
@@ -25,7 +25,7 @@
 
 #### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,typescript,javascript,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,typescript,javascript" />
 </p>
 
 #### 🌐 Web & Backend
@@ -35,7 +35,7 @@
 
 #### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,redis,mongodb" />
 </p>
 
 #### ⚙️ Tools & Platforms
@@ -67,18 +67,30 @@
 
 ---
 
+### 🧱 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/KumuthuA/kast-v2-notification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumuthuA&repo=kast-v2-notification&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/KumuthuA/file-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KumuthuA&repo=file-service&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Current Focus
-- Building production-grade distributed systems with **Go + Kafka + Redis + PostgreSQL**
-- Exploring **system architecture**, **microservices**, and **observability**
+- Building fast-paced, production-grade distributed systems with **Go + Kafka + Redis + PostgreSQL**
+- Exploring **system architecture**, **microservices**, and **cloud-native design**
 - Designing clean and efficient developer experiences 🧩
 
 ---
 
 ### 🌱 Outside Tech
 I’m often found:
-- 🧗 Leading university hackathons & tech clubs  
-- 🎸 Jamming or exploring design tools  
-- 🌍 Learning how to build things that scale globally  
+- 🏎️ Watching and analysing Formula 1 
+- 🌍 Exploring how to build technology that scales globally
 
 ---
 
