@@ -65,6 +65,8 @@
   />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KumuthuA&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ### Current Focus
