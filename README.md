@@ -52,10 +52,6 @@
     src="https://github-readme-stats.vercel.app/api?username=KumuthuA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     height="165px" 
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=KumuthuA&theme=tokyonight&hide_border=true" 
-    height="165px" 
-  />
 </p>
 
 <p align="center">
@@ -65,7 +61,7 @@
   />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KumuthuA&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
